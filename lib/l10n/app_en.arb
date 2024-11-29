@@ -1,0 +1,22 @@
+{
+  "hello": "Hello",
+  "menu_home": "Home",
+  "menu_checklist": "Checklist", 
+  "menu_qrcode": "QR code",
+  "menu_about": "About Us",
+  "menu_contact": "Contact",
+  "menu_report": "Report",
+  "menu_notification": "Notification",
+  "menu_info": "Information",
+  "menu_account": "Account",
+  "menu_changepass": "Change Password",
+  "menu_changelang": "Change Language",
+  "menu_setting": "Settings",
+  "menu_profile": "Profile",
+  "menu_logout": "Logout",
+  "label_chooselang": "Choose Language",
+  "menu_back": "Back",
+  "good": "Good",
+  "noGood": "No Good"
+  
+}
