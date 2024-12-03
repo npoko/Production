@@ -78,15 +78,15 @@ class _LineProductionScreenState extends State<LineProductionScreen> {
           ),
         ),
       ),
-      actions: [
-        IconButton(
-          onPressed: _navigateToQRScanner,
-          icon: const Icon(
-            Icons.qr_code_scanner_outlined,
-            color: Colors.white,
-          ),
-        ),
-      ],
+      // actions: [
+      //   IconButton(
+      //     onPressed: _navigateToQRScanner,
+      //     icon: const Icon(
+      //       Icons.qr_code_scanner_outlined,
+      //       color: Colors.white,
+      //     ),
+      //   ),
+      // ],
     );
   }
 
